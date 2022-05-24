@@ -35,4 +35,4 @@ in file plots.ipynb you can make plots for statistics
 
 in file correlation.ipynb you can make correlation plots 
 
-Special thanks to my colleague @janmrakava
+Special thanks to my colleague https://github.com/janmrakava
