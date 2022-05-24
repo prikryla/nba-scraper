@@ -12,7 +12,7 @@ Requests, BeautifulSoup, Openpyxl, Pandas, Numpy, Selenium, Seaborn, Matplotlib
 
 ## Project Setup
 
-run scrapper in file scraping.ypinb, you must wait about 15 minutes, when process finish, you get catchphrase "Scraping Finished" 
+run scrapper in file scraping.ipynb, you must wait about 15 minutes, when process finish, you get catchphrase "Scraping Finished" 
 run all function in file init_global_variables.ipynb
 
 ### Make statistics for players
