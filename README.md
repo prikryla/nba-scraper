@@ -17,15 +17,15 @@ run all function in file init_global_variables.ipynb
 
 ### Make statistics for players
 
-run all functions in file functions.ypinb. After this you have Pandas DataFrame df_allPlayers. Last function works as writer to excel
+run all functions in file functions.ipynb. After this you have Pandas DataFrame df_allPlayers. Last function works as writer to excel
 
 ### Make statistics for teams
 
-run all functions in file team_functions.ypinb. After this you have Pandas DataFrame df_allTeams. Last function works as writer to excel. 
+run all functions in file team_functions.ipynb. After this you have Pandas DataFrame df_allTeams. Last function works as writer to excel. 
 
 ### Make statistics for season
 
-run all functions in file season_functions.ypinb. After this you have Pandas DataFrame df_allSeasons. Last function works as writer to excel
+run all functions in file season_functions.ipynb. After this you have Pandas DataFrame df_allSeasons. Last function works as writer to excel.
 
 ### Make plots from excel
 
