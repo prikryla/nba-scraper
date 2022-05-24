@@ -34,3 +34,5 @@ in file plots.ipynb you can make plots for statistics
 ### Make correlation from excel
 
 in file correlation.ipynb you can make correlation plots 
+
+Special thanks to my colleague @janmrakava
